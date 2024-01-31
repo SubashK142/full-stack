@@ -1,0 +1,18 @@
+.body-card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 120vh;
+    width: 177vh;
+    margin-left: 40px;
+    margin-top: 100px;
+    /* padding-top: 100px; */
+  }
+  .dash-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 200px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    width: 15%;
+    float: left;
+  }
